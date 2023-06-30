@@ -26,12 +26,10 @@ print("Me llamo:", name , surname ,". MI edad es:", age , "Y mi alias es", alias
 
 #Inputs
 
-'''
 name = input('Cual es tu nombre? ')
 age = input('Cual es tu edad? ')
 print(name)
 print(age)
-'''
 
 #Cambiamos su tipo
 name = 123
